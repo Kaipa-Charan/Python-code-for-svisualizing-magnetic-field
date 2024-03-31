@@ -1,4 +1,4 @@
-# Python-code-for-svisualizing-magnetic-field
+# Python-code-for-visualizing-magnetic-field
 
 The code simulates the trajectory of a charged particle in a uniform magnetic field using the Lorentz force equation.
 
